@@ -1,0 +1,7 @@
+Status
+Drug
+Sex
+Ascites
+Hepatomegaly
+Spiders
+Edema

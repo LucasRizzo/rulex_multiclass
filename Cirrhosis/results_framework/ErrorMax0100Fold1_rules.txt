@@ -1,0 +1,22 @@
+Rule: "1 Status" AND ("1 Hepatomegaly" OR "2 Hepatomegaly") AND "Level086 Albumin" -> 1 [1, 1], Weight: 0.451535
+Rule: "Level088 Bilirubin" AND "Level087 Age" -> 1 [1, 1], Weight: 0.301876
+Rule: "Level091 Platelets" AND ("0 Drug" OR "2 Drug") AND "Level090 Age" AND "Level089 N_Days" -> 1 [1, 1], Weight: 0.246589
+Rule: "Level094 Prothrombin" AND ("1 Spiders" OR "2 Spiders") AND "Level012 Age" AND "Level092 N_Days" -> 2 [2, 2], Weight: 0.345866
+Rule: "Level098 Prothrombin" AND "Level097 Platelets" AND "Level096 Bilirubin" AND "Level095 N_Days" -> 2 [2, 2], Weight: 0.232609
+Rule: "Level102 Platelets" AND "Level101 Bilirubin" AND "Level100 Age" AND "Level099 N_Days" -> 2 [2, 2], Weight: 0.162125
+Rule: ("1 Spiders" OR "2 Spiders") AND "Level105 Bilirubin" AND "Level104 Age" AND "Level103 N_Days" -> 2 [2, 2], Weight: 0.1297
+Rule: "Level013 Prothrombin" AND "Level108 Platelets" AND "Level107 Bilirubin" AND "Level106 N_Days" -> 2 [2, 2], Weight: 0.1297
+Rule: "Level038 Prothrombin" AND "Level037 Bilirubin" -> 3 [3, 3], Weight: 0.174099
+Rule: "Level115 Platelets" AND "Level113 Bilirubin" AND "Level114 Albumin" AND "Level112 Age" -> 3 [3, 3], Weight: 0.173318
+Rule: "Level119 Prothrombin" AND "Level118 Platelets" AND "Level117 Bilirubin" AND "Level116 Age" -> 3 [3, 3], Weight: 0.149162
+Rule: "Level120 Prothrombin" AND "2 Drug" -> 3 [3, 3], Weight: 0.142732
+Rule: "Level069 Prothrombin" AND "Level122 Platelets" AND "Level121 Albumin" -> 3 [3, 3], Weight: 0.143375
+Rule: "Level124 Platelets" AND "1 Spiders" -> 3 [3, 3], Weight: 0.112652
+Rule: "Level127 Platelets" AND "Level125 Bilirubin" AND "Level126 Albumin" AND "1 Ascites" -> 3 [3, 3], Weight: 0.099036
+Rule: "Level128 Bilirubin" -> 3 [3, 3], Weight: 0.005626
+Rule: "Level130 Age" AND "Level129 N_Days" -> 4 [4, 4], Weight: 0.298141
+Rule: "Level069 Prothrombin" AND "Level068 Platelets" AND ("0 Hepatomegaly" OR "2 Hepatomegaly") -> 4 [4, 4], Weight: 0.286278
+Rule: "Level072 Prothrombin" AND "Level133 Platelets" AND "0 Hepatomegaly" -> 4 [4, 4], Weight: 0.196968
+Rule: "Level136 Platelets" AND "Level135 Age" -> 4 [4, 4], Weight: 0.111648
+Rule: "Level140 Prothrombin" AND "Level139 Platelets" AND "Level138 Bilirubin" AND "Level137 Age" -> 4 [4, 4], Weight: 0.066538
+Rule: "Level142 Prothrombin" AND "1 Hepatomegaly" AND "Level141 Bilirubin" -> 4 [4, 4], Weight: 0.040426

@@ -1,0 +1,11 @@
+Rule: "3 safety" AND ("4 persons" OR "5 persons") -> acc [1, 1], Weight: 0.518705
+Rule: ("2 lug_boot" OR "3 lug_boot") AND "2 safety" AND ("4 persons" OR "5 persons") -> acc [1, 1], Weight: 0.390543
+Rule: "2 safety" AND "1 lug_boot" -> acc [1, 1], Weight: 0.090752
+Rule: ("1 maint" OR "2 maint") AND ("4 persons" OR "5 persons") AND ("1 buying" OR "2 buying") -> good [2, 2], Weight: 1.0
+Rule: "2 persons" -> unacc [0, 0], Weight: 0.26828
+Rule: "1 safety" -> unacc [0, 0], Weight: 0.26828
+Rule: ("3 maint" OR "4 maint") AND ("3 buying" OR "4 buying") -> unacc [0, 0], Weight: 0.171624
+Rule: ("1 safety" OR "2 safety") AND "1 lug_boot" -> unacc [0, 0], Weight: 0.151568
+Rule: "2 doors" AND ("1 lug_boot" OR "2 lug_boot") -> unacc [0, 0], Weight: 0.097627
+Rule: "3 doors" AND "2 lug_boot" -> unacc [0, 0], Weight: 0.04262
+Rule: "3 safety" AND ("1 buying" OR "2 buying") -> vgood [3, 3], Weight: 1.0

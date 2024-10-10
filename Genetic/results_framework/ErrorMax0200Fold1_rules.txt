@@ -1,0 +1,7 @@
+Rule: "Level036 THOP1" -> 0 [0, 0], Weight: 0.771429
+Rule: "Level038 FLJ20712" -> 0 [0, 0], Weight: 0.228571
+Rule: "Level065 DNAJC7" AND "Level066 IGK_2" -> 1 [1, 1], Weight: 0.601845
+Rule: "Level050 HNRNPA1" -> 1 [1, 1], Weight: 0.398155
+Rule: "Level060 SNHG3_1" -> 2 [2, 2], Weight: 0.580345
+Rule: "Level044 control_3389" -> 2 [2, 2], Weight: 0.419655
+Rule: "Level045 GADD45A" -> 3 [3, 3], Weight: 1.0
