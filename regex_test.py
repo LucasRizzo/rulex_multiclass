@@ -5,7 +5,7 @@ import re
 pattern = r'(-?\d+(?:\.\d+)?|\w+)\s*([<>]=?)\s*(-?\d+(?:\.\d+)?|\w+)(?:\s*([<>]=?)\s*(-?\d+(?:\.\d+)?))?'
 
 # Your input string
-input_string = "0.457 <= Bilirubin"
+input_string = "THOP1 > 6.228695"
 
 # Match the pattern
 match = re.match(pattern, input_string)

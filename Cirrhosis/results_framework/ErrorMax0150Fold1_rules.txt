@@ -1,18 +1,18 @@
-Rule: "1 Status" AND "1 Hepatomegaly" AND "Level143 Bilirubin" AND "Level144 Albumin" -> 1 [1, 1], Weight: 0.691592
-Rule: "Level145 Platelets" AND "2 Drug" -> 1 [1, 1], Weight: 0.206607
+Rule: "1 Hepatomegaly" AND "1 Status" AND "Level248 Bilirubin" AND "Level249 Albumin" -> 1 [1, 1], Weight: 0.691592
+Rule: "Level250 Platelets" AND "2 Drug" -> 1 [1, 1], Weight: 0.206607
 Rule: "1 Sex" -> 1 [1, 1], Weight: 0.101802
-Rule: ("1 Spiders" OR "2 Spiders") AND "Level092 N_Days" -> 2 [2, 2], Weight: 0.291336
-Rule: "Level149 Platelets" AND "Level032 Bilirubin" AND "Level147 N_Days" -> 2 [2, 2], Weight: 0.204796
-Rule: "Level096 Bilirubin" AND "Level095 N_Days" -> 2 [2, 2], Weight: 0.193991
-Rule: "Level154 Prothrombin" AND "Level153 Platelets" AND "Level152 N_Days" -> 2 [2, 2], Weight: 0.162076
-Rule: "Level158 Platelets" AND "Level101 Bilirubin" AND "Level100 Age" AND "Level155 N_Days" -> 2 [2, 2], Weight: 0.147802
-Rule: "Level162 Prothrombin" AND "Level161 Platelets" AND "Level160 Albumin" AND "Level159 Age" -> 3 [3, 3], Weight: 0.276352
-Rule: "Level165 Prothrombin" AND "Level164 Platelets" AND "Level163 Albumin" -> 3 [3, 3], Weight: 0.187513
-Rule: "Level168 Bilirubin" AND "Level167 Age" AND "Level166 N_Days" -> 3 [3, 3], Weight: 0.144971
-Rule: "Level170 Platelets" AND "Level169 Albumin" AND ("1 Ascites" OR "2 Ascites") -> 3 [3, 3], Weight: 0.137205
-Rule: "Level171 Bilirubin" AND "Level172 Albumin" -> 3 [3, 3], Weight: 0.128727
-Rule: "Level175 Platelets" AND "Level173 Bilirubin" AND "Level174 Albumin" -> 3 [3, 3], Weight: 0.125232
-Rule: "Level176 Prothrombin" AND ("0 Hepatomegaly" OR "2 Hepatomegaly") -> 4 [4, 4], Weight: 0.41007
-Rule: "Level179 Prothrombin" AND "0 Sex" AND "Level177 Bilirubin" AND "Level178 Albumin" -> 4 [4, 4], Weight: 0.37165
-Rule: "Level181 Bilirubin" AND "Level182 Albumin" AND "Level180 N_Days" -> 4 [4, 4], Weight: 0.131442
-Rule: "Level186 Prothrombin" AND "Level185 Bilirubin" AND "Level184 Age" AND "Level183 N_Days" -> 4 [4, 4], Weight: 0.086838
+Rule: ("1 Spiders" OR "2 Spiders") AND "Level197 N_Days" -> 2 [2, 2], Weight: 0.291336
+Rule: "Level254 Platelets" AND "Level137 Bilirubin" AND "Level252 N_Days" -> 2 [2, 2], Weight: 0.204796
+Rule: "Level201 Bilirubin" AND "Level200 N_Days" -> 2 [2, 2], Weight: 0.193991
+Rule: "Level258 Platelets" AND "Level257 N_Days" AND "Level259 Prothrombin" -> 2 [2, 2], Weight: 0.162076
+Rule: "Level263 Platelets" AND "Level205 Age" AND "Level206 Bilirubin" AND "Level260 N_Days" -> 2 [2, 2], Weight: 0.147802
+Rule: "Level264 Age" AND "Level266 Platelets" AND "Level267 Prothrombin" AND "Level265 Albumin" -> 3 [3, 3], Weight: 0.276352
+Rule: "Level268 Albumin" AND "Level269 Platelets" AND "Level270 Prothrombin" -> 3 [3, 3], Weight: 0.187513
+Rule: "Level272 Age" AND "Level273 Bilirubin" AND "Level271 N_Days" -> 3 [3, 3], Weight: 0.144971
+Rule: ("1 Ascites" OR "2 Ascites") AND "Level275 Platelets" AND "Level274 Albumin" -> 3 [3, 3], Weight: 0.137205
+Rule: "Level277 Albumin" AND "Level276 Bilirubin" -> 3 [3, 3], Weight: 0.128727
+Rule: "Level280 Platelets" AND "Level279 Albumin" AND "Level278 Bilirubin" -> 3 [3, 3], Weight: 0.125232
+Rule: ("0 Hepatomegaly" OR "2 Hepatomegaly") AND "Level281 Prothrombin" -> 4 [4, 4], Weight: 0.41007
+Rule: "Level282 Bilirubin" AND "Level283 Albumin" AND "0 Sex" AND "Level284 Prothrombin" -> 4 [4, 4], Weight: 0.37165
+Rule: "Level287 Albumin" AND "Level286 Bilirubin" AND "Level285 N_Days" -> 4 [4, 4], Weight: 0.131442
+Rule: "Level289 Age" AND "Level290 Bilirubin" AND "Level288 N_Days" AND "Level291 Prothrombin" -> 4 [4, 4], Weight: 0.086838

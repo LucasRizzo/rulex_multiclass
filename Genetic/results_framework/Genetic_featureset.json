@@ -3,112 +3,112 @@
 		[{"name":"THOP1"},
 		 {"range":"1"},
 		 {"from":[
-		  	{"value":"5.3897"}]},
+		  	{"value":"6.2297"}]},
 		 {"to":[
-		  	{"value":"6.2277"}]},
+		  	{"value":"7.4892"}]},
 		 {"level":[
-		  	{"value":"Level036"}]}],
+		  	{"value":"Level071"}]}],
 		[{"name":"TARP_5"},
 		 {"range":"1"},
 		 {"from":[
-		  	{"value":"6.7088"}]},
+		  	{"value":"2.4209"}]},
 		 {"to":[
-		  	{"value":"9.8058"}]},
+		  	{"value":"6.7088"}]},
 		 {"level":[
-		  	{"value":"Level037"}]}],
+		  	{"value":"Level072"}]}],
 		[{"name":"FLJ20712"},
 		 {"range":"1"},
 		 {"from":[
-		  	{"value":"3.0893"}]},
+		  	{"value":"2.7962"}]},
 		 {"to":[
-		  	{"value":"4.0600"}]},
+		  	{"value":"3.0893"}]},
 		 {"level":[
-		  	{"value":"Level038"}]}],
+		  	{"value":"Level073"}]}],
 		[{"name":"DNAJC7"},
 		 {"range":"3"},
 		 {"from":[
-		  	{"value":"7.0252"},
-		  	{"value":"7.0252"},
-		  	{"value":"7.0252"}]},
+		  	{"value":"8.1440"},
+		  	{"value":"8.0607"},
+		  	{"value":"8.1324"}]},
 		 {"to":[
-		  	{"value":"8.0587"},
-		  	{"value":"8.1304"},
-		  	{"value":"8.1420"}]},
+		  	{"value":"9.0649"},
+		  	{"value":"9.0649"},
+		  	{"value":"9.0649"}]},
 		 {"level":[
-		  	{"value":"Level039"},
-		  	{"value":"Level048"},
-		  	{"value":"Level065"}]}],
+		  	{"value":"Level100"},
+		  	{"value":"Level074"},
+		  	{"value":"Level083"}]}],
 		[{"name":"IGK_2"},
 		 {"range":"4"},
 		 {"from":[
-		  	{"value":"10.4561"},
-		  	{"value":"11.3200"},
-		  	{"value":"12.5604"},
-		  	{"value":"10.5180"}]},
+		  	{"value":"5.4349"},
+		  	{"value":"5.4349"},
+		  	{"value":"5.4349"},
+		  	{"value":"5.4349"}]},
 		 {"to":[
-		  	{"value":"12.6600"},
-		  	{"value":"12.6600"},
-		  	{"value":"12.6600"},
-		  	{"value":"12.6600"}]},
+		  	{"value":"10.4561"},
+		  	{"value":"12.5604"},
+		  	{"value":"10.5180"},
+		  	{"value":"11.3200"}]},
 		 {"level":[
-		  	{"value":"Level049"},
-		  	{"value":"Level058"},
-		  	{"value":"Level066"},
-		  	{"value":"Level040"}]}],
+		  	{"value":"Level084"},
+		  	{"value":"Level101"},
+		  	{"value":"Level075"},
+		  	{"value":"Level093"}]}],
 		[{"name":"DEK"},
 		 {"range":"1"},
 		 {"from":[
-		  	{"value":"4.6665"}]},
+		  	{"value":"6.5004"}]},
 		 {"to":[
-		  	{"value":"6.4984"}]},
+		  	{"value":"9.9897"}]},
 		 {"level":[
-		  	{"value":"Level041"}]}],
+		  	{"value":"Level076"}]}],
 		[{"name":"SNHG3_1"},
 		 {"range":"2"},
 		 {"from":[
+		  	{"value":"6.4542"},
+		  	{"value":"6.4542"}]},
+		 {"to":[
 		  	{"value":"9.2849"},
 		  	{"value":"9.2434"}]},
-		 {"to":[
-		  	{"value":"11.8590"},
-		  	{"value":"11.8590"}]},
 		 {"level":[
-		  	{"value":"Level042"},
-		  	{"value":"Level060"}]}],
+		  	{"value":"Level077"},
+		  	{"value":"Level095"}]}],
 		[{"name":"SNORA14B"},
 		 {"range":"2"},
 		 {"from":[
-		  	{"value":"4.8457"},
-		  	{"value":"4.4085"}]},
+		  	{"value":"3.1407"},
+		  	{"value":"3.1407"}]},
 		 {"to":[
-		  	{"value":"6.1688"},
-		  	{"value":"6.1688"}]},
+		  	{"value":"4.4085"},
+		  	{"value":"4.8457"}]},
 		 {"level":[
-		  	{"value":"Level052"},
-		  	{"value":"Level043"}]}],
+		  	{"value":"Level078"},
+		  	{"value":"Level087"}]}],
 		[{"name":"control_3389"},
 		 {"range":"1"},
 		 {"from":[
-		  	{"value":"8.1997"}]},
+		  	{"value":"7.1837"}]},
 		 {"to":[
-		  	{"value":"9.9841"}]},
+		  	{"value":"8.1997"}]},
 		 {"level":[
-		  	{"value":"Level044"}]}],
+		  	{"value":"Level079"}]}],
 		[{"name":"GADD45A"},
 		 {"range":"1"},
 		 {"from":[
-		  	{"value":"7.7026"}]},
+		  	{"value":"6.9092"}]},
 		 {"to":[
-		  	{"value":"12.0826"}]},
+		  	{"value":"7.7026"}]},
 		 {"level":[
-		  	{"value":"Level045"}]}],
+		  	{"value":"Level080"}]}],
 		[{"name":"HNRNPA1"},
 		 {"range":"1"},
 		 {"from":[
-		  	{"value":"3.8289"}]},
+		  	{"value":"6.4453"}]},
 		 {"to":[
-		  	{"value":"6.4433"}]},
+		  	{"value":"7.6773"}]},
 		 {"level":[
-		  	{"value":"Level050"}]}]
+		  	{"value":"Level085"}]}]
 	],
 	"conclusions":[
 		[{"category":"0"},
