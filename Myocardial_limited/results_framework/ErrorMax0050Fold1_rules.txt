@@ -1,0 +1,40 @@
+Rule: "0 nr_02" AND "1 ASP_S_n" AND ("0 FK_STENOK" OR "1 FK_STENOK" OR "2 FK_STENOK" OR "4 FK_STENOK") AND "Level057 AGE" AND ("0 NOT_NA_1_n" OR "1 NOT_NA_1_n" OR "2 NOT_NA_1_n" OR "3 NOT_NA_1_n") AND "0 zab_leg_03" AND ("0 INF_ANAM" OR "1 INF_ANAM" OR "2 INF_ANAM") -> 0 [0, 0], Weight: 0.263449
+Rule: "0 NITR_S" AND ("1 ant_im" OR "2 ant_im") -> 0 [0, 0], Weight: 0.241293
+Rule: "0 nr_04" AND ("0 ZSN_A" OR "1 ZSN_A") AND "0 K_SH_POST" AND "0 IBS_POST" AND "0 endocr_02" AND "Level058 AGE" AND ("0 inf_im" OR "2 inf_im" OR "4 inf_im") -> 0 [0, 0], Weight: 0.172404
+Rule: "0 K_SH_POST" AND ("0 ZSN_A" OR "1 ZSN_A") AND "1 IBS_POST" AND ("0 NA_R_1_n" OR "1 NA_R_1_n" OR "3 NA_R_1_n" OR "4 NA_R_1_n") AND ("0 INF_ANAM" OR "2 INF_ANAM") -> 0 [0, 0], Weight: 0.166593
+Rule: ("0 ZSN_A" OR "1 ZSN_A" OR "2 ZSN_A" OR "4 ZSN_A") AND ("0 ant_im" OR "2 ant_im" OR "4 ant_im") AND ("0 lat_im" OR "1 lat_im" OR "2 lat_im") AND ("0 post_im" OR "1 post_im" OR "2 post_im" OR "3 post_im") AND ("1 inf_im" OR "3 inf_im") -> 0 [0, 0], Weight: 0.156261
+Rule: ("0 ZSN_A" OR "4 ZSN_A") AND "0 endocr_03" AND ("0 ant_im" OR "1 ant_im" OR "4 ant_im") AND ("1 IBS_POST" OR "2 IBS_POST") AND ("0 FK_STENOK" OR "2 FK_STENOK") AND "0 nr_03" AND "0 endocr_02" AND "0 zab_leg_01" AND "Level059 AGE" AND "0 nr_11" AND ("0 lat_im" OR "1 lat_im" OR "2 lat_im" OR "3 lat_im") AND ("0 GB" OR "2 GB") AND ("0 post_im" OR "1 post_im") AND ("0 NA_R_1_n" OR "1 NA_R_1_n") AND "0 ANT_CA_S_n" AND "0 nr_01" AND ("0 R_AB_1_n" OR "1 R_AB_1_n") AND ("0 INF_ANAM" OR "1 INF_ANAM" OR "3 INF_ANAM") -> 1 [1, 1], Weight: 0.298367
+Rule: ("1 IBS_POST" OR "2 IBS_POST") AND ("2 NA_R_1_n" OR "3 NA_R_1_n") AND ("0 INF_ANAM" OR "1 INF_ANAM") -> 1 [1, 1], Weight: 0.225294
+Rule: "4 ant_im" AND ("0 FK_STENOK" OR "2 FK_STENOK") AND "Level113 AGE" AND ("0 lat_im" OR "1 lat_im" OR "3 lat_im" OR "4 lat_im") AND ("2 GB" OR "3 GB") AND "0 NOT_NA_1_n" AND "0 B_BLOK_S_n" AND ("0 INF_ANAM" OR "1 INF_ANAM") -> 1 [1, 1], Weight: 0.224619
+Rule: "1 K_SH_POST" -> 1 [1, 1], Weight: 0.176059
+Rule: ("3 inf_im" OR "4 inf_im") AND "Level114 AGE" -> 1 [1, 1], Weight: 0.075661
+Rule: ("0 ant_im" OR "1 ant_im" OR "4 ant_im") AND ("1 IBS_POST" OR "2 IBS_POST") AND ("0 FK_STENOK" OR "2 FK_STENOK" OR "3 FK_STENOK") AND "0 zab_leg_02" AND "0 zab_leg_01" AND "Level009 AGE" AND ("0 NOT_NA_1_n" OR "1 NOT_NA_1_n") AND ("0 inf_im" OR "1 inf_im" OR "4 inf_im") AND "0 MP_TP_POST" AND ("0 INF_ANAM" OR "1 INF_ANAM" OR "3 INF_ANAM") -> 2 [2, 2], Weight: 0.232344
+Rule: "0 SIM_GIPERT" AND "0 ASP_S_n" AND ("1 IBS_POST" OR "2 IBS_POST") AND "0 zab_leg_02" AND "Level090 AGE" AND ("0 lat_im" OR "1 lat_im") AND ("0 NOT_NA_1_n" OR "1 NOT_NA_1_n") AND ("0 post_im" OR "1 post_im") AND ("0 inf_im" OR "1 inf_im" OR "4 inf_im") AND "0 B_BLOK_S_n" AND "0 MP_TP_POST" AND ("0 INF_ANAM" OR "1 INF_ANAM" OR "3 INF_ANAM") -> 2 [2, 2], Weight: 0.232515
+Rule: "1 NITR_S" AND ("1 NA_R_1_n" OR "2 NA_R_1_n") -> 2 [2, 2], Weight: 0.20077
+Rule: ("1 IBS_POST" OR "2 IBS_POST") AND "Level062 AGE" AND ("0 inf_im" OR "1 inf_im") AND "0 MP_TP_POST" AND ("0 INF_ANAM" OR "1 INF_ANAM" OR "3 INF_ANAM") -> 2 [2, 2], Weight: 0.19974
+Rule: "1 NITR_S" AND "4 ant_im" -> 2 [2, 2], Weight: 0.134631
+Rule: ("0 INF_ANAM" OR "1 INF_ANAM") AND ("0 ZSN_A" OR "3 ZSN_A" OR "4 ZSN_A") AND ("0 ant_im" OR "4 ant_im") AND ("0 FK_STENOK" OR "1 FK_STENOK" OR "2 FK_STENOK") AND "Level066 AGE" AND "0 TRENT_S_n" AND ("0 lat_im" OR "1 lat_im") AND ("0 inf_im" OR "2 inf_im" OR "3 inf_im" OR "4 inf_im") AND "0 endocr_01" -> 3 [3, 3], Weight: 0.256822
+Rule: ("0 INF_ANAM" OR "1 INF_ANAM") AND ("0 ZSN_A" OR "2 ZSN_A" OR "3 ZSN_A" OR "4 ZSN_A") AND "Level119 AGE" AND "0 TRENT_S_n" AND ("0 NOT_NA_1_n" OR "1 NOT_NA_1_n") AND ("0 inf_im" OR "2 inf_im" OR "3 inf_im" OR "4 inf_im") AND "0 endocr_01" -> 3 [3, 3], Weight: 0.241533
+Rule: "0 O_L_POST" AND ("0 ZSN_A" OR "2 ZSN_A" OR "3 ZSN_A") AND ("0 ant_im" OR "4 ant_im") AND "0 fibr_ter_03" AND "Level120 AGE" AND ("2 lat_im" OR "3 lat_im" OR "4 lat_im") AND ("0 NOT_NA_1_n" OR "1 NOT_NA_1_n" OR "3 NOT_NA_1_n") AND ("0 post_im" OR "3 post_im") AND ("0 inf_im" OR "3 inf_im") -> 3 [3, 3], Weight: 0.241715
+Rule: "Level121 AGE" AND ("1 NOT_NA_1_n" OR "2 NOT_NA_1_n") AND ("0 inf_im" OR "4 inf_im") AND ("0 R_AB_1_n" OR "2 R_AB_1_n" OR "3 R_AB_1_n") AND "0 INF_ANAM" -> 3 [3, 3], Weight: 0.198317
+Rule: ("0 IBS_POST" OR "2 IBS_POST") AND "Level122 AGE" AND "0 ANT_CA_S_n" AND ("0 ant_im" OR "1 ant_im" OR "3 ant_im") -> 3 [3, 3], Weight: 0.061613
+Rule: "0 LID_S_n" AND ("1 ZSN_A" OR "2 ZSN_A" OR "3 ZSN_A" OR "4 ZSN_A") AND ("0 ant_im" OR "4 ant_im") -> 4 [4, 4], Weight: 0.257654
+Rule: ("2 lat_im" OR "4 lat_im") AND "0 LID_S_n" -> 4 [4, 4], Weight: 0.220684
+Rule: "0 LID_S_n" AND ("1 ZSN_A" OR "2 ZSN_A" OR "3 ZSN_A") AND ("0 ant_im" OR "4 ant_im") -> 4 [4, 4], Weight: 0.221982
+Rule: ("2 ZSN_A" OR "3 ZSN_A" OR "4 ZSN_A") -> 4 [4, 4], Weight: 0.186337
+Rule: "Level073 AGE" AND "1 zab_leg_02" -> 4 [4, 4], Weight: 0.113344
+Rule: ("2 inf_im" OR "4 inf_im") AND "Level016 AGE" AND "1 ANT_CA_S_n" AND ("0 INF_ANAM" OR "3 INF_ANAM") -> 5 [5, 5], Weight: 0.266023
+Rule: ("0 inf_im" OR "4 inf_im") AND "1 MP_TP_POST" -> 5 [5, 5], Weight: 0.199952
+Rule: ("2 inf_im" OR "4 inf_im") AND "1 post_im" -> 5 [5, 5], Weight: 0.198649
+Rule: ("0 inf_im" OR "4 inf_im") AND ("0 lat_im" OR "1 lat_im") AND "1 endocr_01" AND ("0 ant_im" OR "4 ant_im") -> 5 [5, 5], Weight: 0.198504
+Rule: "0 SEX" AND "Level049 AGE" AND "0 ASP_S_n" -> 5 [5, 5], Weight: 0.136873
+Rule: "0 nr_04" AND "0 ZSN_A" AND "Level126 AGE" AND "0 nr_11" AND ("0 NA_R_1_n" OR "1 NA_R_1_n") AND "0 fibr_ter_02" AND "0 zab_leg_03" AND "0 SIM_GIPERT" AND ("0 post_im" OR "2 post_im") AND ("0 inf_im" OR "2 inf_im" OR "4 inf_im") AND "0 endocr_03" AND "0 nr_03" AND ("0 lat_im" OR "1 lat_im" OR "4 lat_im") AND "0 B_BLOK_S_n" AND ("0 R_AB_1_n" OR "1 R_AB_1_n") AND "0 FIB_G_POST" AND ("0 ant_im" OR "4 ant_im") AND ("0 FK_STENOK" OR "2 FK_STENOK") AND "0 zab_leg_01" AND ("0 INF_ANAM" OR "1 INF_ANAM" OR "3 INF_ANAM") -> 6 [6, 6], Weight: 0.261963
+Rule: "0 ZSN_A" AND "0 SIM_GIPERT" AND ("0 ant_im" OR "4 ant_im") AND ("0 FK_STENOK" OR "2 FK_STENOK") AND "0 zab_leg_01" AND "Level127 AGE" AND ("0 lat_im" OR "1 lat_im" OR "4 lat_im") AND ("0 NA_R_1_n" OR "1 NA_R_1_n") AND ("0 post_im" OR "2 post_im") AND ("0 inf_im" OR "2 inf_im" OR "4 inf_im") AND ("0 INF_ANAM" OR "1 INF_ANAM" OR "3 INF_ANAM") -> 6 [6, 6], Weight: 0.235767
+Rule: "Level078 AGE" AND ("1 lat_im" OR "4 lat_im") AND "4 ant_im" -> 6 [6, 6], Weight: 0.184732
+Rule: "0 ZSN_A" AND ("0 ant_im" OR "4 ant_im") AND "Level079 AGE" AND "0 TRENT_S_n" AND ("0 lat_im" OR "1 lat_im" OR "4 lat_im") AND ("0 inf_im" OR "2 inf_im" OR "4 inf_im") -> 6 [6, 6], Weight: 0.184325
+Rule: "Level130 AGE" AND ("0 ant_im" OR "4 ant_im") AND ("1 INF_ANAM" OR "2 INF_ANAM") AND "2 GB" -> 6 [6, 6], Weight: 0.133213
+Rule: ("0 inf_im" OR "2 inf_im") AND "2 IBS_POST" AND "0 GB" AND ("0 ant_im" OR "4 ant_im") -> 7 [7, 7], Weight: 0.304536
+Rule: "1 SEX" AND "4 ant_im" AND "2 IBS_POST" AND "0 B_BLOK_S_n" AND ("0 R_AB_1_n" OR "2 R_AB_1_n") -> 7 [7, 7], Weight: 0.307241
+Rule: "1 NITR_S" AND "Level026 AGE" AND ("0 R_AB_1_n" OR "2 R_AB_1_n" OR "3 R_AB_1_n") -> 7 [7, 7], Weight: 0.27002
+Rule: "Level056 AGE" -> 7 [7, 7], Weight: 0.079008
+Rule: "1 TIKL_S_n" -> 7 [7, 7], Weight: 0.039194

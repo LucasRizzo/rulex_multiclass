@@ -1,0 +1,48 @@
+Rule: "Level1405 Q4" AND "Level1248 Q15" AND "Level1407 Q55" -> The Champion [2, 2], Weight: 0.386322
+Rule: "Level1288 Q3" AND "Level1409 Q9" AND "Level1410 Q18" AND "Level1346 Q43" -> The Champion [2, 2], Weight: 0.384904
+Rule: "Level1251 Q17" AND "Level1253 Q38" -> The Champion [2, 2], Weight: 0.228774
+Rule: "Level1256 Q30" AND "Level1275 Q37" AND "Level1414 Q5" AND "Level1315 Q14" -> The Commander [15, 15], Weight: 0.350271
+Rule: "Level1259 Q30" AND "Level1257 Q36" AND "Level1258 Q13" AND "Level1420 Q33" -> The Commander [15, 15], Weight: 0.348844
+Rule: "Level1422 Q4" AND "Level1341 Q26" AND "Level1270 Q18" AND "Level1425 Q60" -> The Commander [15, 15], Weight: 0.300886
+Rule: "Level1267 Q40" AND "Level1278 Q15" AND "Level1268 Q53" AND "Level1427 Q25" -> The Composer [9, 9], Weight: 0.394886
+Rule: "Level1282 Q12" AND "Level1432 Q26" AND "Level1410 Q18" AND "Level1433 Q45" -> The Composer [9, 9], Weight: 0.377226
+Rule: "Level1434 Q9" AND "Level1435 Q36" -> The Composer [9, 9], Weight: 0.227889
+Rule: "Level1439 Q39" AND "Level1275 Q37" AND "Level1344 Q5" AND "Level1276 Q38" -> The Counselor [3, 3], Weight: 0.392954
+Rule: "Level1440 Q3" AND "Level1442 Q16" AND "Level1441 Q12" AND "Level1261 Q37" -> The Counselor [3, 3], Weight: 0.376171
+Rule: "Level1445 Q16" AND "Level1444 Q7" AND "Level1446 Q58" -> The Counselor [3, 3], Weight: 0.230875
+Rule: "Level1285 Q12" AND "Level1448 Q17" AND "Level1427 Q25" AND "Level1287 Q29" -> The Craftsman [7, 7], Weight: 0.453406
+Rule: "Level1278 Q15" AND "Level1452 Q20" AND "Level1317 Q58" AND "Level1322 Q35" -> The Craftsman [7, 7], Weight: 0.301051
+Rule: "Level1455 Q19" AND "Level1456 Q20" -> The Craftsman [7, 7], Weight: 0.245543
+Rule: "Level1298 Q11" AND "Level1285 Q12" AND "Level1459 Q18" AND "Level1354 Q22" -> The Doer [8, 8], Weight: 0.347898
+Rule: "Level1464 Q40" AND "Level1461 Q13" AND "Level1463 Q39" AND "Level1462 Q33" -> The Doer [8, 8], Weight: 0.326595
+Rule: "Level1312 Q36" AND "Level1295 Q13" AND "Level1468 Q53" AND "Level1420 Q33" -> The Doer [8, 8], Weight: 0.325506
+Rule: "Level1469 Q4" AND "Level1268 Q53" AND "Level1387 Q55" AND "Level1312 Q36" -> The Giver [11, 11], Weight: 0.400576
+Rule: "Level1335 Q20" AND "Level1258 Q13" AND "Level1420 Q33" -> The Giver [11, 11], Weight: 0.366896
+Rule: "Level1477 Q16" AND "Level1310 Q53" AND "Level1476 Q6" -> The Giver [11, 11], Weight: 0.232528
+Rule: "Level1481 Q31" AND "Level1480 Q17" AND "Level1317 Q58" AND "Level1315 Q14" -> The Idealist [16, 16], Weight: 0.416234
+Rule: "Level1483 Q15" AND "Level1253 Q38" AND "Level1322 Q35" -> The Idealist [16, 16], Weight: 0.377829
+Rule: "Level1268 Q53" AND "Level1486 Q13" -> The Idealist [16, 16], Weight: 0.205937
+Rule: "Level1488 Q11" AND "Level1293 Q29" AND "Level1491 Q33" AND "Level1326 Q14" -> The Inspector [6, 6], Weight: 0.503847
+Rule: "Level1331 Q3" AND "Level1422 Q4" AND "Level1480 Q17" -> The Inspector [6, 6], Weight: 0.293227
+Rule: "Level1377 Q3" AND "Level1496 Q12" AND "Level1497 Q60" -> The Inspector [6, 6], Weight: 0.202926
+Rule: "Level1285 Q12" AND "Level1335 Q20" AND "Level1500 Q43" AND "Level1501 Q59" -> The Mastermind [12, 12], Weight: 0.460972
+Rule: "Level1339 Q12" AND "Level1295 Q13" -> The Mastermind [12, 12], Weight: 0.270929
+Rule: "Level1434 Q9" AND "Level1308 Q26" -> The Mastermind [12, 12], Weight: 0.2681
+Rule: "Level1289 Q19" AND "Level1506 Q6" AND "Level1432 Q26" AND "Level1326 Q14" -> The Nurturer [14, 14], Weight: 0.380131
+Rule: "Level1270 Q18" AND "Level1246 Q43" AND "Level1309 Q41" AND "Level1513 Q58" -> The Nurturer [14, 14], Weight: 0.377931
+Rule: "Level1265 Q11" AND "Level1516 Q49" AND "Level1515 Q27" -> The Nurturer [14, 14], Weight: 0.241937
+Rule: "Level1352 Q30" AND "Level1407 Q55" AND "Level1520 Q60" AND "Level1518 Q38" -> The Performer [1, 1], Weight: 0.402366
+Rule: "Level1282 Q12" AND "Level1354 Q22" AND "Level1491 Q33" -> The Performer [1, 1], Weight: 0.394216
+Rule: "Level1279 Q19" AND "Level1525 Q41" -> The Performer [1, 1], Weight: 0.203418
+Rule: "Level1282 Q12" AND "Level1352 Q30" AND "Level1414 Q5" -> The Provider [10, 10], Weight: 0.445936
+Rule: "Level1366 Q53" AND "Level1529 Q37" AND "Level1372 Q47" -> The Provider [10, 10], Weight: 0.27593
+Rule: "Level1534 Q58" AND "Level1366 Q53" AND "Level1276 Q38" -> The Provider [10, 10], Weight: 0.278134
+Rule: "Level1357 Q3" AND "Level1374 Q6" AND "Level1459 Q18" AND "Level1439 Q39" -> The Supervisor [5, 5], Weight: 0.39626
+Rule: "Level1407 Q55" AND "Level1378 Q18" AND "Level1337 Q59" AND "Level1315 Q14" -> The Supervisor [5, 5], Weight: 0.377947
+Rule: "Level1382 Q30" AND "Level1245 Q37" -> The Supervisor [5, 5], Weight: 0.225793
+Rule: "Level1442 Q16" AND "Level1395 Q6" AND "Level1258 Q13" -> The Thinker [13, 13], Weight: 0.401843
+Rule: "Level1551 Q60" AND "Level1550 Q44" AND "Level1548 Q18" AND "Level1293 Q29" -> The Thinker [13, 13], Weight: 0.376399
+Rule: "Level1301 Q25" AND "Level1391 Q59" -> The Thinker [13, 13], Weight: 0.221758
+Rule: "Level1469 Q4" AND "Level1400 Q60" AND "Level1275 Q37" AND "Level1556 Q43" -> The Visionary [4, 4], Weight: 0.356936
+Rule: "Level1357 Q3" AND "Level1395 Q6" AND "Level1427 Q25" -> The Visionary [4, 4], Weight: 0.322196
+Rule: "Level1366 Q53" AND "Level1256 Q30" AND "Level1309 Q41" AND "Level1433 Q45" -> The Visionary [4, 4], Weight: 0.320867

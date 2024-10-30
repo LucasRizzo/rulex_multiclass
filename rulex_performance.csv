@@ -12,6 +12,10 @@ genetic,unlimited,10,0.970,0
 genetic,unlimited,15,0.940,0
 genetic,unlimited,20,0.925,0
 myocardial,unlimited,1,0.460,0
-myocardial,unlimited,4,0.2017,0
+myocardial,unlimited,4,0.219,0
 myocardial,unlimited,7,0.151,0
 myocardial,unlimited,10,0.124,0
+myocardial_limited,unlimited,1,0.494,0
+myocardial_limited,unlimited,2,0.330,0
+myocardial_limited,unlimited,3,0.284,0
+myocardial_limited,unlimited,4,0.247,0

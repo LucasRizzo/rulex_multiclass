@@ -1,0 +1,63 @@
+Rule: "0 CONCAT_buildUpPlayPositioningClass" -> 1 [1, 1], Weight: 0.126523
+Rule: "Level1379 defencePressure_1" AND "Level1969 DELTA_defenceAggression" -> 1 [1, 1], Weight: 0.080473
+Rule: "1 CONCAT_chanceCreationPositioningClass" AND "Level2367 buildUpPlayPassing_1" AND ("1 CONCAT_buildUpPlayPositioningClass" OR "2 CONCAT_buildUpPlayPositioningClass" OR "3 CONCAT_buildUpPlayPositioningClass") -> 1 [1, 1], Weight: 0.064031
+Rule: "Level266 DELTA_chanceCreationCrossing" AND "Level2369 DELTA_buildUpPlaySpeed" AND "Level2195 DELTA_buildUpPlayPassing" AND "2 CONCAT_buildUpPlayPositioningClass" -> 1 [1, 1], Weight: 0.059662
+Rule: "2 CONCAT_chanceCreationPositioningClass" AND "Level337 chanceCreationCrossing_1" AND "Level1303 DELTA_buildUpPlaySpeed" AND "Level1192 buildUpPlaySpeed_1" -> 1 [1, 1], Weight: 0.057064
+Rule: "Level2375 DELTA_chanceCreationCrossing" AND "Level2374 DELTA_buildUpPlayPassing" -> 1 [1, 1], Weight: 0.053698
+Rule: ("2 CONCAT_chanceCreationPositioningClass" OR "3 CONCAT_chanceCreationPositioningClass") AND "Level718 chanceCreationShooting_1" AND "Level941 DELTA_chanceCreationPassing" AND "Level2376 DELTA_buildUpPlaySpeed" -> 1 [1, 1], Weight: 0.048569
+Rule: "3 CONCAT_chanceCreationPositioningClass" -> 1 [1, 1], Weight: 0.048058
+Rule: "Level2379 DELTA_chanceCreationPassing" AND "Level1400 chanceCreationPassing_1" AND "Level2380 DELTA_defenceAggression" -> 1 [1, 1], Weight: 0.047913
+Rule: ("0 CONCAT_chanceCreationPositioningClass" OR "2 CONCAT_chanceCreationPositioningClass") AND "Level2382 DELTA_buildUpPlayPassing" AND "Level1736 DELTA_chanceCreationShooting" AND "Level1737 buildUpPlaySpeed_1" -> 1 [1, 1], Weight: 0.045697
+Rule: "Level306 DELTA_buildUpPlaySpeed" AND "Level808 defenceAggression_1" AND "Level2388 defenceTeamWidth_1" AND "Level2203 buildUpPlayPassing_1" -> 1 [1, 1], Weight: 0.04425
+Rule: ("0 CONCAT_chanceCreationPositioningClass" OR "2 CONCAT_chanceCreationPositioningClass") AND "Level2390 chanceCreationCrossing_1" AND "Level2389 DELTA_defenceAggression" -> 1 [1, 1], Weight: 0.039912
+Rule: "Level777 DELTA_chanceCreationCrossing" AND "Level2394 chanceCreationCrossing_1" AND "Level433 DELTA_buildUpPlayPassing" AND "Level2176 buildUpPlayPassing_1" -> 1 [1, 1], Weight: 0.039265
+Rule: ("0 CONCAT_chanceCreationPositioningClass" OR "2 CONCAT_chanceCreationPositioningClass") AND "Level2396 chanceCreationCrossing_1" AND "Level433 DELTA_buildUpPlayPassing" AND "Level1725 chanceCreationPassing_1" -> 1 [1, 1], Weight: 0.035542
+Rule: "Level786 chanceCreationPassing_1" -> 1 [1, 1], Weight: 0.034235
+Rule: "0 CONCAT_chanceCreationPositioningClass" AND "Level1111 DELTA_chanceCreationPassing" AND "Level296 DELTA_defenceTeamWidth" -> 1 [1, 1], Weight: 0.031833
+Rule: ("0 CONCAT_chanceCreationPositioningClass" OR "2 CONCAT_chanceCreationPositioningClass") AND "Level392 DELTA_buildUpPlayPassing" AND "Level2402 DELTA_defenceAggression" -> 1 [1, 1], Weight: 0.03116
+Rule: "Level633 defenceTeamWidth_1" -> 1 [1, 1], Weight: 0.027027
+Rule: ("0 CONCAT_chanceCreationPositioningClass" OR "2 CONCAT_chanceCreationPositioningClass") AND "Level2404 DELTA_buildUpPlaySpeed" AND "Level1518 chanceCreationPassing_1" AND "Level352 DELTA_defenceAggression" -> 1 [1, 1], Weight: 0.025826
+Rule: "Level974 defenceAggression_1" AND "Level410 DELTA_buildUpPlayPassing" AND "Level2015 buildUpPlayPassing_1" AND "Level2408 DELTA_defenceAggression" -> 1 [1, 1], Weight: 0.023885
+Rule: "Level1784 DELTA_chanceCreationShooting" AND "Level306 DELTA_buildUpPlaySpeed" -> 1 [1, 1], Weight: 0.023016000000000002
+Rule: "Level2413 DELTA_defencePressure" AND "Level2414 defencePressure_1" -> 1 [1, 1], Weight: 0.012364
+Rule: "Level1817 defenceTeamWidth_1" AND "1 CONCAT_buildUpPlayPositioningClass" -> 2 [2, 2], Weight: 0.121549
+Rule: "Level2417 DELTA_chanceCreationShooting" AND "Level2418 DELTA_defencePressure" AND "Level2416 DELTA_buildUpPlaySpeed" AND "Level1423 defenceAggression_1" -> 2 [2, 2], Weight: 0.094028
+Rule: "0 CONCAT_chanceCreationPositioningClass" AND "Level2253 chanceCreationCrossing_1" AND "Level2254 defenceAggression_1" AND "Level1030 DELTA_chanceCreationShooting" -> 2 [2, 2], Weight: 0.09425
+Rule: "Level928 defenceAggression_1" AND "Level2260 defenceTeamWidth_1" -> 2 [2, 2], Weight: 0.062038
+Rule: "Level2264 buildUpPlaySpeed_1" -> 2 [2, 2], Weight: 0.058362
+Rule: ("2 CONCAT_chanceCreationPositioningClass" OR "3 CONCAT_chanceCreationPositioningClass") AND "Level2261 DELTA_buildUpPlayPassing" AND "Level2262 DELTA_chanceCreationShooting" -> 2 [2, 2], Weight: 0.05599
+Rule: "Level2428 DELTA_chanceCreationShooting" AND "Level2429 chanceCreationCrossing_1" AND "Level2430 defenceTeamWidth_1" AND ("2 CONCAT_buildUpPlayPositioningClass" OR "3 CONCAT_buildUpPlayPositioningClass") -> 2 [2, 2], Weight: 0.053598
+Rule: "Level620 DELTA_chanceCreationShooting" AND "Level2431 DELTA_buildUpPlaySpeed" AND "Level1474 buildUpPlayPassing_1" AND "Level2433 DELTA_defenceAggression" -> 2 [2, 2], Weight: 0.049128
+Rule: "Level1634 chanceCreationPassing_1" AND "Level2435 DELTA_chanceCreationCrossing" AND "Level2436 buildUpPlayPassing_1" AND "Level2438 defencePressure_1" -> 2 [2, 2], Weight: 0.044629
+Rule: "Level721 chanceCreationShooting_1" AND "Level989 buildUpPlaySpeed_1" -> 2 [2, 2], Weight: 0.037795
+Rule: "Level1643 DELTA_defencePressure" AND "Level2442 chanceCreationCrossing_1" -> 2 [2, 2], Weight: 0.037168
+Rule: "Level2152 DELTA_defenceTeamWidth" AND "Level1643 DELTA_defencePressure" AND "Level837 DELTA_buildUpPlaySpeed" AND "Level2443 DELTA_buildUpPlayPassing" -> 2 [2, 2], Weight: 0.037622
+Rule: "Level1445 chanceCreationCrossing_1" AND "Level1733 chanceCreationShooting_1" AND "Level444 defenceTeamWidth_1" AND "Level2447 DELTA_buildUpPlayPassing" -> 2 [2, 2], Weight: 0.037826
+Rule: "Level717 DELTA_defencePressure" AND "Level439 DELTA_buildUpPlaySpeed" AND "Level642 chanceCreationCrossing_1" AND "Level2452 DELTA_defenceAggression" -> 2 [2, 2], Weight: 0.035996
+Rule: "Level2455 DELTA_chanceCreationShooting" AND "Level2456 chanceCreationShooting_1" -> 2 [2, 2], Weight: 0.035031
+Rule: "Level1518 chanceCreationPassing_1" AND "Level283 buildUpPlaySpeed_1" AND ("2 CONCAT_buildUpPlayPositioningClass" OR "3 CONCAT_buildUpPlayPositioningClass") -> 2 [2, 2], Weight: 0.033186
+Rule: "Level2460 defenceAggression_1" AND "Level2459 DELTA_chanceCreationCrossing" -> 2 [2, 2], Weight: 0.030206
+Rule: ("0 CONCAT_defenceDefenderLineClass" OR "3 CONCAT_defenceDefenderLineClass") AND "Level600 DELTA_defencePressure" AND "Level748 buildUpPlayPassing_1" -> 2 [2, 2], Weight: 0.029626
+Rule: "2 CONCAT_defenceDefenderLineClass" -> 2 [2, 2], Weight: 0.025891
+Rule: "Level287 chanceCreationCrossing_1" -> 2 [2, 2], Weight: 0.026081
+Rule: "Level2466 DELTA_chanceCreationShooting" AND "Level2465 DELTA_chanceCreationPassing" AND "Level1382 DELTA_buildUpPlaySpeed" -> 3 [3, 3], Weight: 0.077886
+Rule: "Level353 DELTA_defencePressure" AND "Level1316 chanceCreationCrossing_1" AND "Level2467 DELTA_chanceCreationCrossing" AND "Level2468 DELTA_defenceAggression" -> 3 [3, 3], Weight: 0.067101
+Rule: "Level1736 DELTA_chanceCreationShooting" AND "Level2471 DELTA_buildUpPlaySpeed" AND ("1 CONCAT_buildUpPlayPositioningClass" OR "2 CONCAT_buildUpPlayPositioningClass" OR "3 CONCAT_buildUpPlayPositioningClass") -> 3 [3, 3], Weight: 0.062985
+Rule: "Level1899 DELTA_buildUpPlaySpeed" -> 3 [3, 3], Weight: 0.059253
+Rule: ("1 CONCAT_defenceDefenderLineClass" OR "2 CONCAT_defenceDefenderLineClass") AND "Level2474 DELTA_defencePressure" AND "Level1662 defenceTeamWidth_1" AND "Level1006 chanceCreationPassing_1" -> 3 [3, 3], Weight: 0.057746
+Rule: ("2 CONCAT_chanceCreationPositioningClass" OR "3 CONCAT_chanceCreationPositioningClass") AND "Level1902 DELTA_chanceCreationShooting" -> 3 [3, 3], Weight: 0.055817
+Rule: "Level1325 defenceAggression_1" -> 3 [3, 3], Weight: 0.05234
+Rule: "Level440 DELTA_chanceCreationPassing" AND "Level1303 DELTA_buildUpPlaySpeed" AND "Level2480 DELTA_chanceCreationCrossing" AND "Level2124 buildUpPlaySpeed_1" -> 3 [3, 3], Weight: 0.05198
+Rule: "Level2484 DELTA_defencePressure" AND "Level2483 DELTA_chanceCreationCrossing" AND "Level2485 buildUpPlayPassing_1" AND "Level1737 buildUpPlaySpeed_1" -> 3 [3, 3], Weight: 0.051271
+Rule: "Level2167 chanceCreationShooting_1" AND "Level2487 DELTA_buildUpPlayPassing" AND "2 CONCAT_buildUpPlayPositioningClass" AND "Level2488 buildUpPlaySpeed_1" -> 3 [3, 3], Weight: 0.050002
+Rule: "Level345 DELTA_defenceTeamWidth" AND "Level2137 chanceCreationShooting_1" AND "Level2490 DELTA_buildUpPlaySpeed" AND "Level2322 defenceTeamWidth_1" -> 3 [3, 3], Weight: 0.047241
+Rule: "Level2495 DELTA_defenceTeamWidth" AND "Level1523 chanceCreationCrossing_1" AND "Level2494 DELTA_buildUpPlaySpeed" -> 3 [3, 3], Weight: 0.04601
+Rule: "Level514 DELTA_defencePressure" AND "Level439 DELTA_buildUpPlaySpeed" AND "Level2498 DELTA_chanceCreationCrossing" AND "Level2500 buildUpPlaySpeed_1" -> 3 [3, 3], Weight: 0.045799
+Rule: "Level2501 DELTA_chanceCreationShooting" AND "Level473 chanceCreationCrossing_1" AND "Level1909 DELTA_defenceTeamWidth" AND "Level671 buildUpPlayPassing_1" -> 3 [3, 3], Weight: 0.043744
+Rule: ("0 CONCAT_chanceCreationPositioningClass" OR "2 CONCAT_chanceCreationPositioningClass") AND "Level1530 chanceCreationShooting_1" -> 3 [3, 3], Weight: 0.04302
+Rule: "Level261 Month_match" AND "Level1917 chanceCreationPassing_1" -> 3 [3, 3], Weight: 0.041427
+Rule: "3 CONCAT_defenceDefenderLineClass" AND "Level1935 defenceTeamWidth_1" -> 3 [3, 3], Weight: 0.039748
+Rule: "Level2509 chanceCreationCrossing_1" AND "Level2510 defenceAggression_1" AND "Level2511 defencePressure_1" -> 3 [3, 3], Weight: 0.036151
+Rule: "Level2512 DELTA_chanceCreationPassing" AND "Level2124 buildUpPlaySpeed_1" AND "Level385 buildUpPlayPassing_1" -> 3 [3, 3], Weight: 0.03467
+Rule: ("1 CONCAT_chanceCreationPositioningClass" OR "3 CONCAT_chanceCreationPositioningClass") AND "Level765 DELTA_chanceCreationPassing" AND "Level2516 DELTA_defencePressure" AND "Level2138 defencePressure_1" -> 3 [3, 3], Weight: 0.026857
+Rule: "Level899 DELTA_chanceCreationShooting" AND "Level2520 chanceCreationCrossing_1" AND "Level2518 DELTA_chanceCreationCrossing" -> 3 [3, 3], Weight: 0.008951
