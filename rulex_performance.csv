@@ -19,3 +19,6 @@ myocardial_limited,unlimited,1,0.494,0
 myocardial_limited,unlimited,2,0.330,0
 myocardial_limited,unlimited,3,0.284,0
 myocardial_limited,unlimited,4,0.247,0
+personality_limited,unlimited,5,0.353,0
+personality_limited,unlimited,10,0.480,0
+personality_limited,unlimited,15,0.500,0
